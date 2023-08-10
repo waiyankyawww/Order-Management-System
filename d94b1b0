@@ -1,0 +1,44 @@
+[33mfc6a88b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m profile details
+[33mb97e60d[m errors fixed and township controller
+[33md94b1b0[m Merge branch 'master' of https://bitbucket.org/Xspheretech/work-atmosphere-admin
+[33m8b333a4[m new update
+[33mcef3ed9[m change password
+[33m9c8a662[m  admin site finish
+[33mcb2bd07[m addresses ajax function and restore function half-done :sparkles:
+[33m4c0cc28[m address,city,state frontend
+[33me239ad5[m industry database setup
+[33m4dfa3e5[m self profile edit
+[33m8c6c394[m admin profile setting and noti complete
+[33m6676d62[m Merge branch 'master' of https://bitbucket.org/Xspheretech/work-atmosphere-admin
+[33mabb40f8[m noti update
+[33m21a92a1[m noti fix
+[33mfe7a385[m noti update
+[33m3f65e79[m WA admin notification
+[33mee4e9e0[m latest update
+[33md08ba4d[m update
+[33m349882f[m updated frontend
+[33mdf592c0[m update
+[33me3cccc0[m admin photo crud
+[33ma445822[m password change
+[33mbb934c9[m owner updated
+[33m3f6d0d1[m export funtion and frontend smth
+[33ma8b2f67[m owner delete list
+[33m6ff5f8e[m Merge branch 'master' of https://bitbucket.org/Xspheretech/work-atmosphere-admin
+[33me069fb1[m owner crud
+[33m633dc45[m update
+[33m748b84b[m update
+[33md8d4fb6[m admin tab ui
+[33m48b1474[m update
+[33m146e3fb[m update
+[33m296ab2f[m update
+[33m7d95e6a[m update
+[33m91d9548[m update
+[33m13ac57f[m update
+[33m079adae[m Merge branch 'master' of https://bitbucket.org/Xspheretech/work-atmosphere-admin
+[33m8aaf509[m register into admin
+[33me6bffec[m Admin CRUD
+[33mb2516a9[m Admin CRUD
+[33m46b1fb0[m admin auth login
+[33m6a38b85[m change laravel version
+[33m59ac52c[m first commit
+[33mf4a2044[m Initial commit
